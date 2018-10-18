@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PeopleDailyController"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "人民日报 PeopleDailyController."
 
   # This description is used to generate tags and improve search results.
