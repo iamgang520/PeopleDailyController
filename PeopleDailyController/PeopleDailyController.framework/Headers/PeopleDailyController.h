@@ -6,11 +6,11 @@
 //  Copyright © 2018年 iamgang. All rights reserved.
 //
 
-#import <TMWebFramework/TMWebViewController.h>
+#import <TMWebFramework/TMWebFramework.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface PeopleDailyController : TMWebViewController
+@interface PeopleDailyController : TMWebFramework
 
 @end
 
