@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface PeopleDailyController : TMWebFramework
+@interface zx02frmrbwz_pkdza_PeopleDailyController : TMWebFramework
 
 @end
 
